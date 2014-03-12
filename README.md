@@ -1,4 +1,4 @@
-beego_orm_tools
+Beego ORM Tools
 ===============
 
 Beego ORM Tools
